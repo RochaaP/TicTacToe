@@ -1,12 +1,9 @@
 
-//package ticktack;
+
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-//import java.awt.event.*;
-//import javax.swing.*;
 import java.awt.GridLayout;
-
 import javax.swing.JButton;
 import javax.swing.JPanel;
 import java.awt.event.ActionListener;
@@ -343,11 +340,11 @@ public class TicTacToe extends JFrame {
             check=new TicTacToe().winnerChecking();
         }
 
-        // TODO add your handling code here:
+       
     }                                        
 
     private void formPropertyChange(java.beans.PropertyChangeEvent evt) {                                    
-        // TODO add your handling code here:
+       
     }                                   
 
 
@@ -426,28 +423,6 @@ public class TicTacToe extends JFrame {
     private javax.swing.JButton jButton8;
     private javax.swing.JButton jButton9;
     // End of variables declaration                   
-
-//public static void main(String[] args) {
-      // TODO code application logic here
-      // create a frame
-//        JFrame frame = new JFrame("Tic Tac Toe"); 
-//	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
-
-//	// set the content of the frame as one of this panel
-	//frame.setContentPane(new TicTacToe());    
-//        frame.setSize(400,400);
-//	//frame.pack(); 
-//	frame.setLocationRelativeTo(null); 
-//	frame.setVisible(true);
-//      
-//        JFrame FTickTack = new JFrame("TickTackTock");
-//        FTickTack.setSize(400,400);
-//        FTickTack.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//        FTickTack.setLocationRelativeTo(null);
-//        FTickTack.setContentPane(new TicTacToe());   
-//        FTickTack.setVisible(true);
-
-
 
 
           
