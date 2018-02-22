@@ -1,4 +1,4 @@
-#Tic Tac Toe  game
+# Tic Tac Toe  game
 
 
 The tic tac game is written in here using java platform.
